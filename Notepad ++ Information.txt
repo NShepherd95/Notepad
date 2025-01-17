@@ -1,0 +1,80 @@
+Notepad ++ Information:
+-----------------------
+Bold = <b> </b>
+Break = <br>
+Center = <center>
+Italics = <i></i>
+Strikeout = <strike<</strike>
+Superscript = <sub></sup>
+Underline = <u></u>
+
+
+Ordered List (ol) (Numbered List):
+<ol>
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+
+Unordered List (ul) (Bullet Point):
+<ul>
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+
+Comments(<i - -       i> - -):
+<!-- This is a comment –!>
+
+
+Horizontal Line:
+<hr/>
+
+Image (<img src==   />) (html Tag):
+<img src== “image.bmp”/> (or whatever file the image is in)
+width=“40”   height=“40”   border=“0”>
+
+Hyperlinks:
+<a href=””>Anchor Text </a>
+
+Email Links HTML Tag:
+<a href=”mailto:nickbshepherd24@gmail.com”>Email Us</a>
+
+External Link
+<a href=“https://google.com”>Google Page </a>
+
+Internal Link - Direct
+<a href=“Index.html”>Go Back</a>
+
+Internal Link - Relative
+<a href=”/images/test.png”>Background Image link </a>
+
+Email Link
+<a href”=mailto:nickbshepherd24@gmail.com”>Email Me</a>
+
+Button Link
+<button onclick="document.location="page2.html'">Submit</button>
+
+Open Link for New Tab
+<a href=“https://ashepproduction.wixsite.com/ashepproduction” target=”_blank”>Go to Facebook Page</a>
+
+Image Link
+<a href=“https://youtube.com” target=”_blank”>
+	<img src=“./images/test.png” alt=”example image link” width=“200px” />
+
+Bookmark Link
+<ol>
+	<li><a href=“#external”>External Link</a></li>
+	<li><a href=“#internal”>Internal Link</a></li>
+
+ID (To click on link to specific place)
+id=“button”
+
+Background Image
+background-image:url (‘./images/background.png’);
+
+Row:
+<tr>
+<td>First Row First Data Cell</td>
+
+Column:
+<tr>
+<th>First Column Header</th>
