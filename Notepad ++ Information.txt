@@ -38,29 +38,29 @@ Hyperlinks:
 Email Links HTML Tag:
 <a href=”mailto:nickbshepherd24@gmail.com”>Email Us</a>
 
-External Link
+External Link:
 <a href=“https://google.com”>Google Page </a>
 
-Internal Link - Direct
+Internal Link - Direct:
 <a href=“Index.html”>Go Back</a>
 
-Internal Link - Relative
+Internal Link - Relative:
 <a href=”/images/test.png”>Background Image link </a>
 
-Email Link
+Email Link:
 <a href”=mailto:nickbshepherd24@gmail.com”>Email Me</a>
 
-Button Link
+Button Link:
 <button onclick="document.location="page2.html'">Submit</button>
 
-Open Link for New Tab
+Open Link for New Tab:
 <a href=“https://ashepproduction.wixsite.com/ashepproduction” target=”_blank”>Go to Facebook Page</a>
 
-Image Link
+Image Link:
 <a href=“https://youtube.com” target=”_blank”>
 	<img src=“./images/test.png” alt=”example image link” width=“200px” />
 
-Bookmark Link
+Bookmark Link:
 <ol>
 	<li><a href=“#external”>External Link</a></li>
 	<li><a href=“#internal”>Internal Link</a></li>
@@ -68,7 +68,7 @@ Bookmark Link
 ID (To click on link to specific place)
 id=“button”
 
-Background Image
+Background Image:
 background-image:url (‘./images/background.png’);
 
 Row:
