@@ -8,7 +8,6 @@ Strikeout = <strike<</strike>
 Superscript = <sub></sup>
 Underline = <u></u>
 
-
 Ordered List (ol) (Numbered List):
 <ol>
 <li>item 1</li>
@@ -23,7 +22,6 @@ Unordered List (ul) (Bullet Point):
 
 Comments(<i - -       i> - -):
 <!-- This is a comment –!>
-
 
 Horizontal Line:
 <hr/>
