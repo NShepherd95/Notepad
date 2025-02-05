@@ -94,3 +94,9 @@ Column:
 ------
 <tr>
 <th>First Column Header</th>
+
+
+CSS Links (Download Links):
+---------------------------
+<a class="roundedButton" href="download.html" target="_blank">Download Now (Rounded)</a>
+<a class="squareButton" href="download.html" target="_blank">Download Now (Rounded)</a>
