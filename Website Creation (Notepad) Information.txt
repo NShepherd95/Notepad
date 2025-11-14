@@ -65,7 +65,7 @@ Button Link:
 
 Open Link for New Tab:
 ----------------------
-<a href=“https://ashepproduction.wixsite.com/ashepproduction” target=”_blank”>Go to Facebook Page</a>
+<a href=“https://website.com” target=”_blank”>Go to Facebook Page</a>
 
 Image Link:
 -----------
