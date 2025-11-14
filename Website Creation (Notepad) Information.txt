@@ -41,11 +41,11 @@ Hyperlinks:
 
 Email Links HTML Tag:
 ---------------------
-<a href=”mailto:nickbshepherd24@gmail.com”>Email Us</a>
+<a href=”mailto:example69@gmail.com”>Email Us</a>
 
 External Link:
 -------------
-<a href=“https://google.com”>Google Page </a>
+<a href=“https://brave.com”>Brave Page </a>
 
 Internal Link - Direct:
 -----------------------
@@ -57,7 +57,7 @@ Internal Link - Relative:
 
 Email Link:
 -----------
-<a href”=mailto:nickbshepherd24@gmail.com”>Email Me</a>
+<a href”=mailto:example69@gmail.com”>Email Me</a>
 
 Button Link:
 ------------
