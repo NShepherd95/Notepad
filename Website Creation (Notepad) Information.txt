@@ -78,7 +78,7 @@ Bookmark Link:
 	<li><a href=“#external”>External Link</a></li>
 	<li><a href=“#internal”>Internal Link</a></li>
 
-ID (To click on link to specific place)
+ID (To Click on Link to Specific Place)
 id=“button”
 
 Background Image:
